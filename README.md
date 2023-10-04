@@ -1,5 +1,6 @@
 # GRAPHQL-SPRINGBOOT
 
+# serving graphql url : http://localhost:8080/graphiql?path=/graphql
 
 # QUERY:
 
